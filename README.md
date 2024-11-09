@@ -21,14 +21,23 @@ Welcome to my GitHub profile! I’m a seasoned frontend developer with over a de
 - **Comprehensive Agency Support**: Act as an agency of record, delivering end-to-end project management and execution.
 
 ### 💡 What I’m Currently Working On
-🛍 Developing custom checkout experiences on WooCommerce using Elementor and the latest technologies as a front-end expert.
-🔧 Optimizing Google Ads for Shopify and WooCommerce services, targeted to specific audiences.
-🌊 Building a mobile app for real-time river flow and weather forecast data.
-📄 Creating SEO-focused e-commerce content for Nomad Vanz.
-🚀 Leveraging Tailwind for efficient front-end development at Pragmatic Works Training.
-🌐 Designing and optimizing custom WordPress websites for improved performance and SEO.
-✨ Building interactive and responsive Webflow sites, focusing on high-quality user experiences and modern design aesthetics.
-🎨 Creating and refining UI/UX designs in Figma for seamless development handoff and enhanced user engagement.
+
+- 🛍 Developing custom checkout experiences on WooCommerce using Elementor and the latest technologies as a front-end expert.
+
+- 🔧 Optimizing Google Ads for Shopify and WooCommerce services, targeted to specific audiences.
+
+- 🌊 Building a mobile app for real-time river flow and weather forecast data.
+
+- 📄 Creating SEO-focused e-commerce content for [Nomad Vanz](https://www.nomadvanz.com).
+
+- 🚀 Leveraging Tailwind for efficient front-end development at [Pragmatic Works Training](https://pragmaticworkstraining.com).
+
+- 🌐 Designing and optimizing custom WordPress websites for improved performance and SEO.
+
+- ✨ Building interactive and responsive Webflow sites, focusing on high-quality user experiences and modern design aesthetics.
+
+- 🎨 Creating and refining UI/UX designs in Figma for seamless development handoff and enhanced user engagement.
+
 
 ### 🌱 Always Learning
 - Actively exploring new frontend frameworks and UX/UI trends to deliver engaging, future-proof solutions.
